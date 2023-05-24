@@ -1,0 +1,50 @@
+
+body{
+    background-color: rgb(74, 1, 88);
+    font-family: 'Oxygen';
+    margin: 0;
+    padding: 0;
+}
+
+.photo{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.profile{
+    color: #c8c8c8;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.personal-information{
+    color:#fff;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.description{
+    color: #fff;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.hobbies{
+    color: #fff;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.social-media{
+    cursor: pointer;
+}
+
+.footer{
+    display: flex;
+    display: grid;
+    text-align: center;
+    color: #c8c8c8;
+    background-color: #111;
+    margin-top: 50px;
+}
